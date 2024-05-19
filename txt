@@ -1,0 +1,24 @@
+Integer Multiplication 
+
+Karatsuba Mulitiplication 
+
+#Vocabulary of designing and analysing algortihms:
+"Big - oh"
+"sweet spot"
+
+#Algorithm design paradigms:
+divide and conquer
+greedy
+dynamic programming
+
+#Randomization in algorithm design:
+QuickSort
+primality testing
+graph partioning 
+hashing
+
+#Reasoning in graphs:
+Primitives: conectivity, shortest path, structure of information and social networks
+
+#Case uses for data structures:
+heaps, balanced binary search trees, hashtables, hashmaps , bloom filter
